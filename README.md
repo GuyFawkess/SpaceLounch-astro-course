@@ -2,6 +2,12 @@
 
 A simple project built with **Astro** following a tutorial by [Midudev](https://midu.dev/). This project displays SpaceX launches using data fetched from the SpaceX API.
 
+
+
+https://github.com/user-attachments/assets/8ff9fe56-3691-47f1-aed1-6cf8cd42e58d
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
